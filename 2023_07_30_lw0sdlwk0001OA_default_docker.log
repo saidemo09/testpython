@@ -1,0 +1,2016 @@
+2023-07-30T08:01:29.622902080Z    _____                               
+2023-07-30T08:01:29.622935882Z   /  _  \ __________ _________   ____  
+2023-07-30T08:01:29.622941882Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:01:29.622946783Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:01:29.622951383Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:01:29.622956883Z         \/      \/                  \/ 
+2023-07-30T08:01:29.622961483Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:01:29.622965984Z 
+2023-07-30T08:01:29.622981085Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:01:29.622985385Z Python 3.10.11
+2023-07-30T08:01:29.622989585Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:01:31.022261734Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:01:31.171010349Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:01:31.452965980Z Starting periodic command scheduler: cron.
+2023-07-30T08:01:31.460579321Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:01:31.519093710Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:01:31.519119712Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:01:31.519127112Z Build Operation ID: 1bcbf239-5e08-46a0-9342-be4b507ca3fc
+2023-07-30T08:01:31.746321771Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:01:31.911213822Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:01:32.063275529Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T08:01:32.063325332Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:01:32.063332932Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T08:02:05.145523628Z    _____                               
+2023-07-30T08:02:05.145560130Z   /  _  \ __________ _________   ____  
+2023-07-30T08:02:05.145566630Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:02:05.145572031Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:02:05.145577031Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:02:05.145582231Z         \/      \/                  \/ 
+2023-07-30T08:02:05.145587032Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:02:05.145591832Z 
+2023-07-30T08:02:05.145596232Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:02:05.145600832Z Python 3.10.11
+2023-07-30T08:02:05.145605333Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:02:09.724157374Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:02:09.856996304Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:02:10.291576155Z Starting periodic command scheduler: cron.
+2023-07-30T08:02:10.308887397Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:02:10.346711955Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:02:10.354429275Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:02:10.355896055Z Build Operation ID: cd2e8100-f4eb-47a6-9130-81ba79b81978
+2023-07-30T08:02:10.953591583Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:02:11.182349832Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:02:11.304236266Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:02:11.311313851Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:02:11.312548318Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:02:53.340401123Z    _____                               
+2023-07-30T08:02:53.340437225Z   /  _  \ __________ _________   ____  
+2023-07-30T08:02:53.340442925Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:02:53.340447825Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:02:53.340452426Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:02:53.340457426Z         \/      \/                  \/ 
+2023-07-30T08:02:53.340461826Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:02:53.340466327Z 
+2023-07-30T08:02:53.340470627Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:02:53.340474927Z Python 3.10.11
+2023-07-30T08:02:53.340479227Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:02:55.759323204Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:02:55.836250316Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:02:56.062726510Z Starting periodic command scheduler: cron.
+2023-07-30T08:02:56.068706345Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:02:56.097488258Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:02:56.099766286Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:02:56.101047658Z Build Operation ID: aae4156e-18c6-47fd-8ee7-749861485c93
+2023-07-30T08:02:56.277771594Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:02:56.322250207Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:02:56.398655925Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:02:56.398686527Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:02:56.398724729Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:03:29.975851001Z    _____                               
+2023-07-30T08:03:29.975891403Z   /  _  \ __________ _________   ____  
+2023-07-30T08:03:29.975897403Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:03:29.975902503Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:03:29.975907204Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:03:29.975912004Z         \/      \/                  \/ 
+2023-07-30T08:03:29.975916504Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:03:29.975921305Z 
+2023-07-30T08:03:29.975925505Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:03:29.975929905Z Python 3.10.11
+2023-07-30T08:03:29.975934205Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:03:32.192913574Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:03:32.272568288Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:03:32.504359434Z Starting periodic command scheduler: cron.
+2023-07-30T08:03:32.510869095Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:03:32.533579753Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:03:32.533968075Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:03:32.534365797Z Build Operation ID: 79907743-c69b-49dd-adc0-2de9b38cf275
+2023-07-30T08:03:32.649488377Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:03:32.676223859Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:03:32.738238496Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:03:32.745171480Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:03:32.775984488Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:06:10.486803587Z    _____                               
+2023-07-30T08:06:10.486851890Z   /  _  \ __________ _________   ____  
+2023-07-30T08:06:10.486857990Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:06:10.486862890Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:06:10.486867491Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:06:10.486872291Z         \/      \/                  \/ 
+2023-07-30T08:06:10.486876891Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:06:10.486881392Z 
+2023-07-30T08:06:10.486885592Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:06:10.486889992Z Python 3.10.11
+2023-07-30T08:06:10.486894692Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:06:12.880856914Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:06:12.991116553Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:06:13.299544946Z Starting periodic command scheduler: cron.
+2023-07-30T08:06:13.300991325Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:06:13.336944595Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:06:13.338313870Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:06:13.346546220Z Build Operation ID: e0d89b75-1e7f-4575-a144-3de4ef5de2b8
+2023-07-30T08:06:13.801290227Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:06:13.862492579Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:06:13.925475229Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:06:13.933046843Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:06:13.942074038Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:08:40.123484985Z    _____                               
+2023-07-30T08:08:40.123542990Z   /  _  \ __________ _________   ____  
+2023-07-30T08:08:40.123549490Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:08:40.123554690Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:08:40.123559591Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:08:40.123564691Z         \/      \/                  \/ 
+2023-07-30T08:08:40.123569391Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:08:40.123574092Z 
+2023-07-30T08:08:40.123578492Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:08:40.123589993Z Python 3.10.11
+2023-07-30T08:08:40.123594493Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:08:44.829283491Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:08:44.951382728Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:08:45.564078920Z Starting periodic command scheduler: cron.
+2023-07-30T08:08:45.572730137Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:08:45.622474438Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:08:45.622507241Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:08:45.622514541Z Build Operation ID: 5781ab32-411c-4586-8a25-bc483607d012
+2023-07-30T08:08:46.082866639Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:08:46.172404099Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:08:46.322533384Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:08:46.324152637Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:08:46.326011913Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:11:48.914909655Z    _____                               
+2023-07-30T08:11:48.914939957Z   /  _  \ __________ _________   ____  
+2023-07-30T08:11:48.914945857Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:11:48.914950657Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:11:48.914955258Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:11:48.914959958Z         \/      \/                  \/ 
+2023-07-30T08:11:48.914964458Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:11:48.914968858Z 
+2023-07-30T08:11:48.914973059Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:11:48.914977459Z Python 3.10.11
+2023-07-30T08:11:48.914981759Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:11:50.376137593Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:11:50.558163510Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:11:51.045576071Z Starting periodic command scheduler: cron.
+2023-07-30T08:11:51.075904339Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:11:51.226803127Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:11:51.226840130Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:11:51.226847330Z Build Operation ID: bd52d856-1e07-4e27-96e5-5ac8f3c64556
+2023-07-30T08:11:52.125750272Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:11:52.255303763Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:11:52.497911411Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:11:52.505037144Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:11:52.507501529Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:15:32.383591221Z    _____                               
+2023-07-30T08:15:32.383625923Z   /  _  \ __________ _________   ____  
+2023-07-30T08:15:32.383631724Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:15:32.383636624Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:15:32.383641424Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:15:32.383646324Z         \/      \/                  \/ 
+2023-07-30T08:15:32.383650925Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:15:32.383655325Z 
+2023-07-30T08:15:32.383659625Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:15:32.383664026Z Python 3.10.11
+2023-07-30T08:15:32.383668326Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:15:36.048314450Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:15:36.140362610Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:15:36.485817250Z Starting periodic command scheduler: cron.
+2023-07-30T08:15:36.485847452Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:15:36.504119375Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:15:36.504140677Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:15:36.504147077Z Build Operation ID: ea0c34f6-98fc-40e3-a609-ac127030599e
+2023-07-30T08:15:36.703858056Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:15:36.785043648Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:15:37.215542917Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:15:37.215593620Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:15:37.236845327Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:18:20.788206491Z    _____                               
+2023-07-30T08:18:20.788246594Z   /  _  \ __________ _________   ____  
+2023-07-30T08:18:20.788252794Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:18:20.788257894Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:18:20.788262595Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:18:20.788267695Z         \/      \/                  \/ 
+2023-07-30T08:18:20.788272095Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:18:20.788276595Z 
+2023-07-30T08:18:20.788280896Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:18:20.788285296Z Python 3.10.11
+2023-07-30T08:18:20.788289796Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:18:23.332145031Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:18:23.455686601Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:18:24.023493029Z Starting periodic command scheduler: cron.
+2023-07-30T08:18:24.031285000Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:18:24.073147531Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:18:24.074839333Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:18:24.081047108Z Build Operation ID: 026075ce-9295-45c6-b2dc-da86d3314c2e
+2023-07-30T08:18:24.385076686Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:18:24.423909434Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:18:24.502946411Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:18:24.504341996Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:18:24.513514650Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:22:47.085223250Z    _____                               
+2023-07-30T08:22:47.085254652Z   /  _  \ __________ _________   ____  
+2023-07-30T08:22:47.085260853Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:22:47.085265753Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:22:47.085270353Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:22:47.085275153Z         \/      \/                  \/ 
+2023-07-30T08:22:47.085279654Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:22:47.085284154Z 
+2023-07-30T08:22:47.085288354Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:22:47.085292754Z Python 3.10.11
+2023-07-30T08:22:47.085297155Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:22:51.640922618Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:22:51.892995208Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:22:52.328148714Z Starting periodic command scheduler: cron.
+2023-07-30T08:22:52.330568847Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:22:52.437977723Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:22:52.438857471Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:22:52.445860354Z Build Operation ID: b6c94602-e512-40e9-8051-79bc1464b715
+2023-07-30T08:22:53.010069620Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:22:53.060598584Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:22:53.267215486Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T08:22:53.267287989Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:22:53.267296190Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T08:27:46.020052146Z    _____                               
+2023-07-30T08:27:46.020088749Z   /  _  \ __________ _________   ____  
+2023-07-30T08:27:46.020095250Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:27:46.020100650Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:27:46.020105750Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:27:46.020110951Z         \/      \/                  \/ 
+2023-07-30T08:27:46.020115951Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:27:46.020120652Z 
+2023-07-30T08:27:46.020125152Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:27:46.020129752Z Python 3.10.11
+2023-07-30T08:27:46.020134453Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:27:49.537886201Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:27:49.706797131Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:27:50.155600615Z Starting periodic command scheduler: cron.
+2023-07-30T08:27:50.163191405Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:27:50.202958796Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:27:50.204547619Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:27:50.206374061Z Build Operation ID: d0c0d2b7-ad78-463d-8cdb-24ea4eadc016
+2023-07-30T08:27:50.475183055Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:27:50.544996781Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:27:50.709213945Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:27:50.716779133Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T08:27:50.716825236Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T08:32:44.711976028Z    _____                               
+2023-07-30T08:32:44.712009830Z   /  _  \ __________ _________   ____  
+2023-07-30T08:32:44.712015831Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:32:44.712020831Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:32:44.712025631Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:32:44.712030432Z         \/      \/                  \/ 
+2023-07-30T08:32:44.712034932Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:32:44.712039432Z 
+2023-07-30T08:32:44.712043732Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:32:44.712048033Z Python 3.10.11
+2023-07-30T08:32:44.712052333Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:32:48.496530454Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:32:48.854900389Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:32:50.079795946Z Starting periodic command scheduler: cron.
+2023-07-30T08:32:50.089391339Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:32:50.338598831Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:32:50.339062959Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:32:50.339335576Z Build Operation ID: 5fb27dd8-8e7c-42ba-820a-e3c1a88df8f9
+2023-07-30T08:32:51.301073076Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:32:51.340061884Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:32:51.511437569Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:32:51.518402299Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:32:51.518914731Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:37:48.193498640Z    _____                               
+2023-07-30T08:37:48.193546342Z   /  _  \ __________ _________   ____  
+2023-07-30T08:37:48.193552443Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:37:48.193557643Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:37:48.193562243Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:37:48.193567043Z         \/      \/                  \/ 
+2023-07-30T08:37:48.193571544Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:37:48.193576044Z 
+2023-07-30T08:37:48.193580244Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:37:48.193584744Z Python 3.10.11
+2023-07-30T08:37:48.193589045Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:37:51.313510198Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:37:51.381252612Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:37:51.582010418Z Starting periodic command scheduler: cron.
+2023-07-30T08:37:51.593159930Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:37:51.623476192Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:37:51.631111410Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:37:51.631593437Z Build Operation ID: 3288a121-a7c6-4e58-9a2c-a687a0b96c4b
+2023-07-30T08:37:51.867620677Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:37:51.904280387Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:37:51.964967214Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:37:51.990271801Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:37:51.990395508Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:42:45.293916326Z    _____                               
+2023-07-30T08:42:45.294011033Z   /  _  \ __________ _________   ____  
+2023-07-30T08:42:45.294017633Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:42:45.294022834Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:42:45.294027734Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:42:45.294032835Z         \/      \/                  \/ 
+2023-07-30T08:42:45.294037535Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:42:45.294042335Z 
+2023-07-30T08:42:45.294054136Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:42:45.294058536Z Python 3.10.11
+2023-07-30T08:42:45.294063237Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:42:48.663770551Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:42:48.924038862Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:42:49.703631174Z Starting periodic command scheduler: cron.
+2023-07-30T08:42:49.712206624Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:42:49.883852946Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:42:49.891008856Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:42:49.891047160Z Build Operation ID: 8467e30c-6035-4c80-b026-9e102309e6cd
+2023-07-30T08:42:50.405317360Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:42:50.476616530Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:42:50.605573919Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:42:50.614419896Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:42:50.615136267Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:47:47.034921573Z    _____                               
+2023-07-30T08:47:47.034981777Z   /  _  \ __________ _________   ____  
+2023-07-30T08:47:47.034988477Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:47:47.034993777Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:47:47.034998778Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:47:47.035003678Z         \/      \/                  \/ 
+2023-07-30T08:47:47.035008478Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:47:47.035013179Z 
+2023-07-30T08:47:47.035017579Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:47:47.035029680Z Python 3.10.11
+2023-07-30T08:47:47.035034280Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:47:48.953405021Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:47:49.122770077Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:47:49.541752169Z Starting periodic command scheduler: cron.
+2023-07-30T08:47:49.550994289Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:47:49.600619316Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:47:49.602137618Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:47:49.610485878Z Build Operation ID: ea059f95-5230-4bdb-a9e4-b2515f62596f
+2023-07-30T08:47:49.962130656Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:47:50.012535035Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:47:50.115185818Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:47:50.122641318Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:47:50.123196255Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:53:02.480497801Z    _____                               
+2023-07-30T08:53:02.480534003Z   /  _  \ __________ _________   ____  
+2023-07-30T08:53:02.480539904Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:53:02.480544804Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:53:02.480549304Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:53:02.480554105Z         \/      \/                  \/ 
+2023-07-30T08:53:02.480558705Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:53:02.480563105Z 
+2023-07-30T08:53:02.480567305Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:53:02.480571706Z Python 3.10.11
+2023-07-30T08:53:02.480576006Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:53:08.086808983Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:53:08.323517715Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:53:08.674586585Z Starting periodic command scheduler: cron.
+2023-07-30T08:53:08.675260523Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:53:08.827336517Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:53:08.827795543Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:53:08.844717911Z Build Operation ID: 919db3b9-68b8-4f86-9945-a1c7ada4964d
+2023-07-30T08:53:09.337291266Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:53:09.369059882Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:53:09.623458123Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:53:09.623489824Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:53:09.623518926Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T08:57:46.926366727Z    _____                               
+2023-07-30T08:57:46.926404529Z   /  _  \ __________ _________   ____  
+2023-07-30T08:57:46.926411130Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T08:57:46.926416430Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T08:57:46.926421630Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T08:57:46.926433031Z         \/      \/                  \/ 
+2023-07-30T08:57:46.926438331Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T08:57:46.926443132Z 
+2023-07-30T08:57:46.926447832Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T08:57:46.926452432Z Python 3.10.11
+2023-07-30T08:57:46.926457132Z Note: Any data outside '/home' is not persisted
+2023-07-30T08:57:49.120370185Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T08:57:49.242670960Z Site's appCommandLine: start_appservice.sh
+2023-07-30T08:57:49.763244697Z Starting periodic command scheduler: cron.
+2023-07-30T08:57:49.771333345Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T08:57:49.820946193Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T08:57:49.822215964Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T08:57:49.823461333Z Build Operation ID: 605acc88-f04f-46bd-b14c-9c5eb3c0fdc0
+2023-07-30T08:57:50.263759521Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T08:57:50.291448355Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T08:57:50.402002078Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T08:57:50.403372254Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T08:57:50.404602022Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:02:49.931500315Z    _____                               
+2023-07-30T09:02:49.931561119Z   /  _  \ __________ _________   ____  
+2023-07-30T09:02:49.931567519Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:02:49.931573120Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:02:49.931578020Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:02:49.931583120Z         \/      \/                  \/ 
+2023-07-30T09:02:49.931587821Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:02:49.931592521Z 
+2023-07-30T09:02:49.931604422Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:02:49.931609122Z Python 3.10.11
+2023-07-30T09:02:49.931613623Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:02:51.716724743Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:02:51.769360961Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:02:52.233371875Z Starting periodic command scheduler: cron.
+2023-07-30T09:02:52.240861175Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:02:52.341537204Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:02:52.343287021Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:02:52.343307022Z Build Operation ID: cebb4395-7265-4f7e-9b41-abcd4378a159
+2023-07-30T09:02:52.973323130Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:02:53.031494018Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:02:53.121198613Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:02:53.129343257Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:02:53.131264686Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:07:53.721885879Z    _____                               
+2023-07-30T09:07:53.721917481Z   /  _  \ __________ _________   ____  
+2023-07-30T09:07:53.721923481Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:07:53.721928381Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:07:53.721932981Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:07:53.721937982Z         \/      \/                  \/ 
+2023-07-30T09:07:53.721950482Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:07:53.721955583Z 
+2023-07-30T09:07:53.721959883Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:07:53.721964183Z Python 3.10.11
+2023-07-30T09:07:53.721968484Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:07:55.011474908Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:07:55.089563816Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:07:55.338869030Z Starting periodic command scheduler: cron.
+2023-07-30T09:07:55.342087520Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:07:55.393617461Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:07:55.394078588Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:07:55.394670923Z Build Operation ID: 01d7929b-47ef-4dcd-bbcf-9fa0146891b8
+2023-07-30T09:07:55.674823157Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:07:55.708672654Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:07:55.764891772Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:07:55.765874930Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:07:55.784948556Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:12:45.982083162Z    _____                               
+2023-07-30T09:12:45.982118064Z   /  _  \ __________ _________   ____  
+2023-07-30T09:12:45.982124064Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:12:45.982128964Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:12:45.982133564Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:12:45.982138565Z         \/      \/                  \/ 
+2023-07-30T09:12:45.982143065Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:12:45.982147565Z 
+2023-07-30T09:12:45.982151865Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:12:45.982156166Z Python 3.10.11
+2023-07-30T09:12:45.982160566Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:12:48.736059923Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:12:48.846057112Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:12:49.205407305Z Starting periodic command scheduler: cron.
+2023-07-30T09:12:49.224796778Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:12:49.383689574Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:12:49.385232060Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:12:49.386812747Z Build Operation ID: 05db33a5-eeb1-4610-9a19-576d2c96d9df
+2023-07-30T09:12:49.869656576Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:12:49.920664900Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:12:50.067079905Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:12:50.068855904Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:12:50.071234635Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:17:49.986693899Z    _____                               
+2023-07-30T09:17:49.986729101Z   /  _  \ __________ _________   ____  
+2023-07-30T09:17:49.986735402Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:17:49.986747803Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:17:49.986752803Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:17:49.986757803Z         \/      \/                  \/ 
+2023-07-30T09:17:49.986762504Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:17:49.986767004Z 
+2023-07-30T09:17:49.986771304Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:17:49.986775705Z Python 3.10.11
+2023-07-30T09:17:49.986780105Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:17:54.839694131Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:17:54.963844232Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:17:55.400114622Z Starting periodic command scheduler: cron.
+2023-07-30T09:17:55.458820715Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:17:55.616598191Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:17:55.616629093Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:17:55.616635994Z Build Operation ID: 31a97981-b46c-45d6-b000-a282cab90286
+2023-07-30T09:17:56.144169243Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:17:56.203639716Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:17:56.334622168Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:17:56.336228189Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:17:56.352652124Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:22:47.787554460Z    _____                               
+2023-07-30T09:22:47.787589261Z   /  _  \ __________ _________   ____  
+2023-07-30T09:22:47.787595362Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:22:47.787600462Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:22:47.787612162Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:22:47.787617663Z         \/      \/                  \/ 
+2023-07-30T09:22:47.787622363Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:22:47.787626763Z 
+2023-07-30T09:22:47.787631063Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:22:47.787635464Z Python 3.10.11
+2023-07-30T09:22:47.787639964Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:22:49.123072028Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:22:49.293059919Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:22:49.657487697Z Starting periodic command scheduler: cron.
+2023-07-30T09:22:49.657518999Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:22:49.776216943Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:22:49.777888752Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:22:49.777907454Z Build Operation ID: 1fd31265-c494-44d5-91fd-e4eab952833f
+2023-07-30T09:22:50.044133324Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:22:50.078958396Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:22:50.134713934Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:22:50.134741336Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:22:50.134770337Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:27:49.577346039Z    _____                               
+2023-07-30T09:27:49.577378341Z   /  _  \ __________ _________   ____  
+2023-07-30T09:27:49.577384541Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:27:49.577389641Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:27:49.577394442Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:27:49.577399542Z         \/      \/                  \/ 
+2023-07-30T09:27:49.577404342Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:27:49.577417243Z 
+2023-07-30T09:27:49.577432944Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:27:49.577437244Z Python 3.10.11
+2023-07-30T09:27:49.577441344Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:27:50.536426598Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:27:50.613574493Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:27:50.879129234Z Starting periodic command scheduler: cron.
+2023-07-30T09:27:50.889031472Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:27:50.926107088Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:27:50.927813781Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:27:50.928142899Z Build Operation ID: dba46fc5-4b44-4020-a5d6-c165df3b4dfe
+2023-07-30T09:27:51.120031932Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:27:51.151332134Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:27:51.214124648Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:27:51.214152349Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:27:51.214191251Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:32:49.944518542Z    _____                               
+2023-07-30T09:32:49.944561944Z   /  _  \ __________ _________   ____  
+2023-07-30T09:32:49.944568345Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:32:49.944573645Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:32:49.944578445Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:32:49.944583246Z         \/      \/                  \/ 
+2023-07-30T09:32:49.944588046Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:32:49.944592646Z 
+2023-07-30T09:32:49.944597046Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:32:49.944601447Z Python 3.10.11
+2023-07-30T09:32:49.944605847Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:32:50.759395619Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:32:50.870301404Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:32:51.137510324Z Starting periodic command scheduler: cron.
+2023-07-30T09:32:51.137540225Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:32:51.215089910Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:32:51.215118612Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:32:51.215125712Z Build Operation ID: 4754e54e-3cf6-4deb-918e-bf6ec44e0ae5
+2023-07-30T09:32:55.356366381Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:32:55.415268252Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:32:55.557826614Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:32:55.559907019Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:32:55.579224181Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:37:47.779686468Z    _____                               
+2023-07-30T09:37:47.779747673Z   /  _  \ __________ _________   ____  
+2023-07-30T09:37:47.779753373Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:37:47.779760574Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:37:47.779764874Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:37:47.779769274Z         \/      \/                  \/ 
+2023-07-30T09:37:47.779773574Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:37:47.779783675Z 
+2023-07-30T09:37:47.779788075Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:37:47.779792176Z Python 3.10.11
+2023-07-30T09:37:47.779796176Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:37:52.234675306Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:37:52.431896643Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:37:52.993827113Z Starting periodic command scheduler: cron.
+2023-07-30T09:37:52.995252811Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:37:53.111518390Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:37:53.113037295Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:37:53.113993660Z Build Operation ID: e9a801cd-81f1-48ad-a01e-476d9bde6794
+2023-07-30T09:37:53.738152099Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:37:53.780719021Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:37:53.928317751Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:37:53.929928062Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:37:53.931521071Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:42:47.288025187Z    _____                               
+2023-07-30T09:42:47.288061689Z   /  _  \ __________ _________   ____  
+2023-07-30T09:42:47.288067989Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:42:47.288072990Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:42:47.288077590Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:42:47.288082290Z         \/      \/                  \/ 
+2023-07-30T09:42:47.288086691Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:42:47.288090991Z 
+2023-07-30T09:42:47.288095091Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:42:47.288099391Z Python 3.10.11
+2023-07-30T09:42:47.288103592Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:42:49.381529144Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:42:49.584302261Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:42:49.967064958Z Starting periodic command scheduler: cron.
+2023-07-30T09:42:49.974391488Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:42:50.178409279Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:42:50.185075970Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:42:50.185098972Z Build Operation ID: 3acac844-4e0b-4675-b991-f32b0d60666c
+2023-07-30T09:42:50.687649007Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:42:50.737296425Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:42:50.915808416Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:42:50.915853719Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:42:50.915901022Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:47:47.761472386Z    _____                               
+2023-07-30T09:47:47.761529990Z   /  _  \ __________ _________   ____  
+2023-07-30T09:47:47.761536590Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:47:47.761541590Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:47:47.761546291Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:47:47.761550991Z         \/      \/                  \/ 
+2023-07-30T09:47:47.761555491Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:47:47.761559891Z 
+2023-07-30T09:47:47.761564192Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:47:47.761568592Z Python 3.10.11
+2023-07-30T09:47:47.761580392Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:47:49.673203364Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:47:49.835399089Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:47:50.268494488Z Starting periodic command scheduler: cron.
+2023-07-30T09:47:50.334017934Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:47:50.422994285Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:47:50.424203052Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:47:50.425252310Z Build Operation ID: 0e6331ce-9104-4d9b-b84f-0df4bac7c477
+2023-07-30T09:47:50.853767454Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:47:50.894537623Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:47:51.024565858Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:47:51.025853329Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:47:51.027293509Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:52:49.654913536Z    _____                               
+2023-07-30T09:52:49.654949539Z   /  _  \ __________ _________   ____  
+2023-07-30T09:52:49.654955640Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:52:49.654960840Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:52:49.654965640Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:52:49.654970541Z         \/      \/                  \/ 
+2023-07-30T09:52:49.654975141Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:52:49.654979542Z 
+2023-07-30T09:52:49.654983642Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:52:49.654987942Z Python 3.10.11
+2023-07-30T09:52:49.654992143Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:52:50.665746711Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:52:50.920211376Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:52:51.299728141Z Starting periodic command scheduler: cron.
+2023-07-30T09:52:51.299755344Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:52:51.431073166Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:52:51.431112669Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:52:51.431121070Z Build Operation ID: dba3e838-7f5a-43ca-8caa-2c5dd9858911
+2023-07-30T09:52:51.728629414Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:52:51.775806838Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:52:51.829018564Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:52:51.835349891Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:52:51.836228864Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T09:57:48.416013742Z    _____                               
+2023-07-30T09:57:48.416054145Z   /  _  \ __________ _________   ____  
+2023-07-30T09:57:48.416060245Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T09:57:48.416065245Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T09:57:48.416070046Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T09:57:48.416074946Z         \/      \/                  \/ 
+2023-07-30T09:57:48.416079546Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T09:57:48.416084046Z 
+2023-07-30T09:57:48.416088347Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T09:57:48.416092747Z Python 3.10.11
+2023-07-30T09:57:48.416097047Z Note: Any data outside '/home' is not persisted
+2023-07-30T09:57:50.355702085Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T09:57:50.580249058Z Site's appCommandLine: start_appservice.sh
+2023-07-30T09:57:51.018694559Z Starting periodic command scheduler: cron.
+2023-07-30T09:57:51.018724761Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T09:57:51.138588106Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T09:57:51.140292309Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T09:57:51.141407677Z Build Operation ID: 6331588f-af29-4853-b2a0-ec68045b7f32
+2023-07-30T09:57:51.504270309Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T09:57:51.532562619Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T09:57:51.631153479Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T09:57:51.638100498Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T09:57:51.640067317Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:02:52.864870102Z    _____                               
+2023-07-30T10:02:52.864911204Z   /  _  \ __________ _________   ____  
+2023-07-30T10:02:52.864916205Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:02:52.864920205Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:02:52.864924205Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:02:52.864928305Z         \/      \/                  \/ 
+2023-07-30T10:02:52.864931906Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:02:52.864935506Z 
+2023-07-30T10:02:52.864939006Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:02:52.864942506Z Python 3.10.11
+2023-07-30T10:02:52.864946107Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:02:55.292980270Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:02:55.414919988Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:02:55.812191231Z Starting periodic command scheduler: cron.
+2023-07-30T10:02:55.820085105Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:02:55.910990060Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:02:55.912831971Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:02:55.914243056Z Build Operation ID: beaa5564-81c7-4140-8e13-c93916171f62
+2023-07-30T10:02:56.409971202Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:02:56.467341144Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:02:56.607807965Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:02:56.607830866Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:02:56.638833591Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:07:53.415176886Z    _____                               
+2023-07-30T10:07:53.415224990Z   /  _  \ __________ _________   ____  
+2023-07-30T10:07:53.415230890Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:07:53.415235390Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:07:53.415239591Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:07:53.415243991Z         \/      \/                  \/ 
+2023-07-30T10:07:53.415248191Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:07:53.415252292Z 
+2023-07-30T10:07:53.415256492Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:07:53.415260592Z Python 3.10.11
+2023-07-30T10:07:53.415264492Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:07:55.299586592Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:07:55.377534445Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:07:55.693929994Z Starting periodic command scheduler: cron.
+2023-07-30T10:07:55.693959496Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:07:55.873481617Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:07:55.879745971Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:07:55.880192004Z Build Operation ID: 1469f1df-70ff-45b4-974b-25ea0571825d
+2023-07-30T10:07:56.243156828Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:07:56.314022568Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:07:56.384140253Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:07:56.385344240Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:07:56.392065028Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:12:51.234500754Z    _____                               
+2023-07-30T10:12:51.234690366Z   /  _  \ __________ _________   ____  
+2023-07-30T10:12:51.234707568Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:12:51.234713768Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:12:51.234718968Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:12:51.234724169Z         \/      \/                  \/ 
+2023-07-30T10:12:51.234729269Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:12:51.234734069Z 
+2023-07-30T10:12:51.234738470Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:12:51.234743370Z Python 3.10.11
+2023-07-30T10:12:51.234748170Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:12:54.332544339Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:12:54.507184063Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:12:54.866551388Z Starting periodic command scheduler: cron.
+2023-07-30T10:12:54.873519656Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:12:54.974784554Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:12:54.974813756Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:12:54.974821656Z Build Operation ID: 337a5512-ed51-4c49-b92b-76db9084192e
+2023-07-30T10:12:56.011550649Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:12:56.110660102Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:12:56.223490176Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:12:56.224927172Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:12:56.394443251Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:17:55.452419660Z    _____                               
+2023-07-30T10:17:55.452453662Z   /  _  \ __________ _________   ____  
+2023-07-30T10:17:55.452459662Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:17:55.452464462Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:17:55.452468962Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:17:55.452473663Z         \/      \/                  \/ 
+2023-07-30T10:17:55.452478463Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:17:55.452482863Z 
+2023-07-30T10:17:55.452487163Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:17:55.452502164Z Python 3.10.11
+2023-07-30T10:17:55.452506265Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:17:58.567954614Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:17:58.748707089Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:17:59.167319260Z Starting periodic command scheduler: cron.
+2023-07-30T10:17:59.169383995Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:17:59.438493526Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:17:59.441135198Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:17:59.448371569Z Build Operation ID: b803b785-5585-404e-a319-f43623f701c7
+2023-07-30T10:18:01.463083834Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:18:01.463109235Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:18:01.762479331Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T10:18:01.762534634Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:18:01.762541734Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T10:22:54.622672647Z    _____                               
+2023-07-30T10:22:54.622705349Z   /  _  \ __________ _________   ____  
+2023-07-30T10:22:54.622712249Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:22:54.622717949Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:22:54.622723350Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:22:54.622736550Z         \/      \/                  \/ 
+2023-07-30T10:22:54.622742051Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:22:54.622747351Z 
+2023-07-30T10:22:54.622752551Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:22:54.622757652Z Python 3.10.11
+2023-07-30T10:22:54.622762852Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:22:55.818907544Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:22:55.958104008Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:22:56.480682401Z Starting periodic command scheduler: cron.
+2023-07-30T10:22:56.529315344Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:22:56.689742960Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:22:56.689781862Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:22:56.689788963Z Build Operation ID: 11ed0193-43f2-4002-a4a8-95a4e7b1f26a
+2023-07-30T10:22:57.196118173Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:22:57.254178128Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:22:57.443737627Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:22:57.444210452Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:22:57.444703979Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:27:54.378061524Z    _____                               
+2023-07-30T10:27:54.378103128Z   /  _  \ __________ _________   ____  
+2023-07-30T10:27:54.378109328Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:27:54.378114528Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:27:54.378119329Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:27:54.378124329Z         \/      \/                  \/ 
+2023-07-30T10:27:54.378129129Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:27:54.378133730Z 
+2023-07-30T10:27:54.378138230Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:27:54.378142730Z Python 3.10.11
+2023-07-30T10:27:54.378147331Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:27:55.268313563Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:27:55.367655577Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:27:55.916606645Z Starting periodic command scheduler: cron.
+2023-07-30T10:27:55.926030648Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:27:56.046947872Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:27:56.046984075Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:27:56.046992075Z Build Operation ID: 93175951-f513-4165-8f2e-40b8b4caec4b
+2023-07-30T10:27:56.421466322Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:27:56.465613517Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:27:56.592912917Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:27:56.594769755Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:27:56.613829978Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:32:55.624381940Z    _____                               
+2023-07-30T10:32:55.624432142Z   /  _  \ __________ _________   ____  
+2023-07-30T10:32:55.624440543Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:32:55.624447443Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:32:55.624453843Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:32:55.624460944Z         \/      \/                  \/ 
+2023-07-30T10:32:55.624467344Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:32:55.624473444Z 
+2023-07-30T10:32:55.624479245Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:32:55.624485345Z Python 3.10.11
+2023-07-30T10:32:55.624491345Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:32:57.299822585Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:32:57.383037444Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:32:57.688435173Z Starting periodic command scheduler: cron.
+2023-07-30T10:32:57.688463875Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:32:57.819847098Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:32:57.819915002Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:32:57.819922202Z Build Operation ID: 25748629-2104-4419-9c04-f4add703fba4
+2023-07-30T10:32:58.308706317Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:32:58.365589728Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:32:58.457449629Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:32:58.458455681Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:32:58.466020468Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:37:55.248352462Z    _____                               
+2023-07-30T10:37:55.248414965Z   /  _  \ __________ _________   ____  
+2023-07-30T10:37:55.248421466Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:37:55.248426466Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:37:55.248431166Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:37:55.248436167Z         \/      \/                  \/ 
+2023-07-30T10:37:55.248440767Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:37:55.248445367Z 
+2023-07-30T10:37:55.248449667Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:37:55.248454068Z Python 3.10.11
+2023-07-30T10:37:55.248458368Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:37:57.444973334Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:37:57.523513890Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:37:57.758303614Z Starting periodic command scheduler: cron.
+2023-07-30T10:37:57.759264768Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:37:57.805115711Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:37:57.805493332Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:37:57.805941257Z Build Operation ID: 1c479954-1195-4d35-8902-f58d537fbe42
+2023-07-30T10:37:58.014618032Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:37:58.034278423Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:37:58.080366279Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:37:58.080395580Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:37:58.080425182Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:42:54.205488118Z    _____                               
+2023-07-30T10:42:54.205528221Z   /  _  \ __________ _________   ____  
+2023-07-30T10:42:54.205535122Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:42:54.205541022Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:42:54.205546323Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:42:54.205551923Z         \/      \/                  \/ 
+2023-07-30T10:42:54.205557124Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:42:54.205562224Z 
+2023-07-30T10:42:54.205566824Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:42:54.205571925Z Python 3.10.11
+2023-07-30T10:42:54.205576925Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:42:55.375948229Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:42:55.465443594Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:42:56.001281092Z Starting periodic command scheduler: cron.
+2023-07-30T10:42:56.004658663Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:42:56.085960071Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:42:56.087125865Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:42:56.088282957Z Build Operation ID: 41c5f5d4-13b5-4f79-8b77-b22149303080
+2023-07-30T10:42:56.265210095Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:42:56.299317516Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:42:56.412086515Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:42:56.412114417Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:42:56.412143320Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:47:53.939784310Z    _____                               
+2023-07-30T10:47:53.939822912Z   /  _  \ __________ _________   ____  
+2023-07-30T10:47:53.939829113Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:47:53.939834413Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:47:53.939839213Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:47:53.939844414Z         \/      \/                  \/ 
+2023-07-30T10:47:53.939849114Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:47:53.939853914Z 
+2023-07-30T10:47:53.939858415Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:47:53.939863115Z Python 3.10.11
+2023-07-30T10:47:53.939868215Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:47:55.189382651Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:47:55.230249188Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:47:55.456449285Z Starting periodic command scheduler: cron.
+2023-07-30T10:47:55.456477487Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:47:55.586400271Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:47:55.586437673Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:47:55.586445373Z Build Operation ID: 6df38aec-8598-454b-a244-a6b4db077de3
+2023-07-30T10:47:59.584332637Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:47:59.669445929Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:47:59.768189800Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:47:59.768546923Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:47:59.769099058Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:52:52.520134952Z    _____                               
+2023-07-30T10:52:52.520166654Z   /  _  \ __________ _________   ____  
+2023-07-30T10:52:52.520172654Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:52:52.520177555Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:52:52.520185155Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:52:52.520189955Z         \/      \/                  \/ 
+2023-07-30T10:52:52.520201556Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:52:52.520206156Z 
+2023-07-30T10:52:52.520210557Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:52:52.520215057Z Python 3.10.11
+2023-07-30T10:52:52.520219357Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:52:56.961350745Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:52:57.097062888Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:52:57.829071280Z Starting periodic command scheduler: cron.
+2023-07-30T10:52:57.848898824Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:52:58.090041642Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:52:58.090454865Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:52:58.090724881Z Build Operation ID: 64c41bf8-31c0-417c-842e-0b8c932ed3bb
+2023-07-30T10:52:58.662383773Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:52:58.713925748Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:52:58.812116515Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:52:58.813789211Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T10:52:58.814956579Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T10:57:53.675368512Z    _____                               
+2023-07-30T10:57:53.675413815Z   /  _  \ __________ _________   ____  
+2023-07-30T10:57:53.675420015Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T10:57:53.675424815Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T10:57:53.675429415Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T10:57:53.675434216Z         \/      \/                  \/ 
+2023-07-30T10:57:53.675438816Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T10:57:53.675443516Z 
+2023-07-30T10:57:53.675458617Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T10:57:53.675462717Z Python 3.10.11
+2023-07-30T10:57:53.675467017Z Note: Any data outside '/home' is not persisted
+2023-07-30T10:57:54.732200286Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T10:57:54.762429255Z Site's appCommandLine: start_appservice.sh
+2023-07-30T10:57:55.024022801Z Starting periodic command scheduler: cron.
+2023-07-30T10:57:55.034747893Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T10:57:55.285631747Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T10:57:55.286845314Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T10:57:55.295099170Z Build Operation ID: f44ae7aa-0601-4258-ac92-eccceb3d5276
+2023-07-30T10:57:55.584994179Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T10:57:55.641385793Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T10:57:55.739422507Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T10:57:55.739475209Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T10:57:55.739482810Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T11:02:53.938413664Z    _____                               
+2023-07-30T11:02:53.938455966Z   /  _  \ __________ _________   ____  
+2023-07-30T11:02:53.938461766Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:02:53.938466467Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:02:53.938470767Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:02:53.938475267Z         \/      \/                  \/ 
+2023-07-30T11:02:53.938479467Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:02:53.938483568Z 
+2023-07-30T11:02:53.938487468Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:02:53.938491468Z Python 3.10.11
+2023-07-30T11:02:53.938495568Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:02:56.926913403Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:02:57.063552165Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:02:57.541035478Z Starting periodic command scheduler: cron.
+2023-07-30T11:02:57.543098622Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:02:57.663154824Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:02:57.670322825Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:02:57.671708622Z Build Operation ID: 4f733fb5-563b-4803-822b-824a02bc2004
+2023-07-30T11:02:58.398504482Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:02:58.436839364Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:02:58.498494679Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:02:58.552743075Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T11:02:58.552799379Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T11:07:56.542095191Z    _____                               
+2023-07-30T11:07:56.542161095Z   /  _  \ __________ _________   ____  
+2023-07-30T11:07:56.542168096Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:07:56.542173296Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:07:56.542177896Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:07:56.542182896Z         \/      \/                  \/ 
+2023-07-30T11:07:56.542187697Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:07:56.542230499Z 
+2023-07-30T11:07:56.542236200Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:07:56.542240800Z Python 3.10.11
+2023-07-30T11:07:56.542245300Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:07:59.969668739Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:08:00.069556264Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:08:00.417981233Z Starting periodic command scheduler: cron.
+2023-07-30T11:08:00.420559381Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:08:00.568301348Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:08:00.569544320Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:08:00.578343524Z Build Operation ID: d0199dac-ad14-4f0e-b7b1-376c24542887
+2023-07-30T11:08:01.137451168Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:08:01.254510177Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:08:01.359012466Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T11:08:01.359044768Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:08:01.359051569Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T11:12:54.304144531Z    _____                               
+2023-07-30T11:12:54.304182833Z   /  _  \ __________ _________   ____  
+2023-07-30T11:12:54.304189233Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:12:54.304194533Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:12:54.304199434Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:12:54.304204234Z         \/      \/                  \/ 
+2023-07-30T11:12:54.304209034Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:12:54.304213634Z 
+2023-07-30T11:12:54.304218034Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:12:54.304223135Z Python 3.10.11
+2023-07-30T11:12:54.304227735Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:12:56.276498051Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:12:56.475521158Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:12:56.885302044Z Starting periodic command scheduler: cron.
+2023-07-30T11:12:56.885945976Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:12:57.092753062Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:12:57.101819104Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:12:57.101843805Z Build Operation ID: a9d62743-356e-4989-8d48-71e7d7bc7d52
+2023-07-30T11:12:57.756072763Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:12:57.832333359Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:12:57.972117149Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:12:57.972581574Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:12:57.978424396Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T11:17:53.661511970Z    _____                               
+2023-07-30T11:17:53.661567874Z   /  _  \ __________ _________   ____  
+2023-07-30T11:17:53.661574275Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:17:53.661578775Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:17:53.661583075Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:17:53.661587476Z         \/      \/                  \/ 
+2023-07-30T11:17:53.661591676Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:17:53.661595776Z 
+2023-07-30T11:17:53.661599777Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:17:53.661603777Z Python 3.10.11
+2023-07-30T11:17:53.661607777Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:17:55.819379236Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:17:55.949773848Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:17:56.429015047Z Starting periodic command scheduler: cron.
+2023-07-30T11:17:56.438864126Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:17:56.478539964Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:17:56.486443689Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:17:56.486481592Z Build Operation ID: 9d8ccf47-4ebb-4f9b-9ba9-ed875202aa46
+2023-07-30T11:17:56.748408805Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:17:57.386436804Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:17:57.545042809Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:17:57.545073911Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:17:57.566404805Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T11:22:57.788608576Z    _____                               
+2023-07-30T11:22:57.788648078Z   /  _  \ __________ _________   ____  
+2023-07-30T11:22:57.788654379Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:22:57.788659779Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:22:57.788664679Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:22:57.788669680Z         \/      \/                  \/ 
+2023-07-30T11:22:57.788674680Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:22:57.788679380Z 
+2023-07-30T11:22:57.788683781Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:22:57.788688281Z Python 3.10.11
+2023-07-30T11:22:57.788692681Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:23:00.161039106Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:23:00.240942606Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:23:00.530218169Z Starting periodic command scheduler: cron.
+2023-07-30T11:23:00.532898340Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:23:00.608891890Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:23:00.612428216Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:23:00.612757037Z Build Operation ID: 5026da68-a009-451b-b420-7a77a83e3b7d
+2023-07-30T11:23:00.858600928Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:23:00.879091436Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:23:00.968152620Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:23:00.968186322Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:23:00.968220624Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T11:27:59.493581153Z    _____                               
+2023-07-30T11:27:59.494137584Z   /  _  \ __________ _________   ____  
+2023-07-30T11:27:59.494148284Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:27:59.494152985Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:27:59.494157285Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:27:59.494161785Z         \/      \/                  \/ 
+2023-07-30T11:27:59.494165985Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:27:59.494170086Z 
+2023-07-30T11:27:59.494174086Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:27:59.494178086Z Python 3.10.11
+2023-07-30T11:27:59.494182086Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:28:02.021535371Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:28:02.151372344Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:28:02.562225159Z Starting periodic command scheduler: cron.
+2023-07-30T11:28:02.570954848Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:28:02.630689194Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:28:02.632340887Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:28:02.640553047Z Build Operation ID: 87b02d60-a5ef-4ef2-84af-81e0e8a23285
+2023-07-30T11:28:02.834496611Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:28:02.872084117Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:28:02.973957823Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:28:02.975420505Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:28:02.983258644Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T11:32:56.801815291Z    _____                               
+2023-07-30T11:32:56.801854994Z   /  _  \ __________ _________   ____  
+2023-07-30T11:32:56.801861294Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:32:56.801866894Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:32:56.801871895Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:32:56.801876995Z         \/      \/                  \/ 
+2023-07-30T11:32:56.801881795Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:32:56.801886596Z 
+2023-07-30T11:32:56.801891396Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:32:56.801896096Z Python 3.10.11
+2023-07-30T11:32:56.801900597Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:32:59.458222632Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:32:59.665464668Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:33:00.204318903Z Starting periodic command scheduler: cron.
+2023-07-30T11:33:00.215837805Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:33:00.354165941Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:33:00.354206644Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:33:00.354214344Z Build Operation ID: e95a92c9-b523-4b47-bb7f-ff65eeb79e62
+2023-07-30T11:33:01.189867453Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:33:01.238032008Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:33:01.338427001Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:33:01.338459903Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:33:01.338489705Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T11:37:57.236424932Z    _____                               
+2023-07-30T11:37:57.236466435Z   /  _  \ __________ _________   ____  
+2023-07-30T11:37:57.236472635Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:37:57.236477536Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:37:57.236482136Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:37:57.236486836Z         \/      \/                  \/ 
+2023-07-30T11:37:57.236491337Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:37:57.236496137Z 
+2023-07-30T11:37:57.236500337Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:37:57.236611345Z Python 3.10.11
+2023-07-30T11:37:57.236617645Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:37:59.349771835Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:37:59.349844040Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:37:59.803067808Z Starting periodic command scheduler: cron.
+2023-07-30T11:37:59.820291162Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:37:59.931139489Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:37:59.932841003Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:37:59.934309601Z Build Operation ID: a05d0b11-803d-4239-b42c-e4558ed82bc0
+2023-07-30T11:38:00.201845327Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:38:00.251369108Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:38:00.332010275Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:38:00.333790187Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:38:00.341220054Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T11:42:54.557925471Z    _____                               
+2023-07-30T11:42:54.557960673Z   /  _  \ __________ _________   ____  
+2023-07-30T11:42:54.557967074Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:42:54.557972574Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:42:54.557977774Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:42:54.557983175Z         \/      \/                  \/ 
+2023-07-30T11:42:54.557988075Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:42:54.557992975Z 
+2023-07-30T11:42:54.557997675Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:42:54.558002476Z Python 3.10.11
+2023-07-30T11:42:54.558007176Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:42:56.407389725Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:42:56.494853434Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:42:56.734192414Z Starting periodic command scheduler: cron.
+2023-07-30T11:42:56.743967785Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:42:56.791518362Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:42:56.792008491Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:42:56.792022492Z Build Operation ID: 680cca92-22c1-4e9f-b484-8cb3e9a18990
+2023-07-30T11:42:57.045140469Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:42:57.067373865Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:42:57.139309761Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T11:42:57.139373865Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:42:57.139381765Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T11:47:54.039699201Z    _____                               
+2023-07-30T11:47:54.039735504Z   /  _  \ __________ _________   ____  
+2023-07-30T11:47:54.039741404Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:47:54.039746104Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:47:54.039750905Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:47:54.039755605Z         \/      \/                  \/ 
+2023-07-30T11:47:54.039760105Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:47:54.039764505Z 
+2023-07-30T11:47:54.039768706Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:47:54.039773006Z Python 3.10.11
+2023-07-30T11:47:54.039777506Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:47:57.794982741Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:47:57.904394202Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:47:58.282242583Z Starting periodic command scheduler: cron.
+2023-07-30T11:47:58.282285185Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:47:58.489806789Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:47:58.489844291Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:47:58.489851691Z Build Operation ID: 64ed758d-526f-4ee2-87b1-cd8c97a4679d
+2023-07-30T11:47:59.039725841Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:47:59.063390630Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:47:59.189161179Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:47:59.190930676Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:47:59.198572192Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T11:52:54.108877384Z    _____                               
+2023-07-30T11:52:54.108912386Z   /  _  \ __________ _________   ____  
+2023-07-30T11:52:54.108918887Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:52:54.108924087Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:52:54.108928988Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:52:54.108934088Z         \/      \/                  \/ 
+2023-07-30T11:52:54.108938788Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:52:54.108943489Z 
+2023-07-30T11:52:54.108947889Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:52:54.108952389Z Python 3.10.11
+2023-07-30T11:52:54.108956890Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:52:56.464708279Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:52:56.540765748Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:52:56.937600569Z Starting periodic command scheduler: cron.
+2023-07-30T11:52:56.942645058Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:52:56.994308844Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:52:56.995445232Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:52:56.997644702Z Build Operation ID: 92f85066-a5c3-4641-a524-1e650886f540
+2023-07-30T11:52:57.718385312Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:52:57.767880131Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:52:57.869144544Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:52:57.870763969Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:52:57.877861217Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T11:57:55.542286575Z    _____                               
+2023-07-30T11:57:55.542377881Z   /  _  \ __________ _________   ____  
+2023-07-30T11:57:55.542391482Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T11:57:55.542396582Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T11:57:55.542401682Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T11:57:55.542406983Z         \/      \/                  \/ 
+2023-07-30T11:57:55.542411683Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T11:57:55.542416183Z 
+2023-07-30T11:57:55.542420583Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T11:57:55.542425084Z Python 3.10.11
+2023-07-30T11:57:55.542429684Z Note: Any data outside '/home' is not persisted
+2023-07-30T11:57:57.232291708Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T11:57:57.415807622Z Site's appCommandLine: start_appservice.sh
+2023-07-30T11:57:57.840378303Z Starting periodic command scheduler: cron.
+2023-07-30T11:57:57.848398085Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T11:57:58.008686305Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T11:57:58.010191595Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T11:57:58.019086929Z Build Operation ID: f19ba3a2-0b3c-45cb-a825-d95af1deee5d
+2023-07-30T11:57:58.347614345Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T11:57:58.395363210Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T11:57:58.544962288Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T11:57:58.554645869Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T11:57:58.556244665Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:02:57.736737002Z    _____                               
+2023-07-30T12:02:57.736770304Z   /  _  \ __________ _________   ____  
+2023-07-30T12:02:57.736776104Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:02:57.736780905Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:02:57.736785605Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:02:57.736790405Z         \/      \/                  \/ 
+2023-07-30T12:02:57.736802706Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:02:57.736807206Z 
+2023-07-30T12:02:57.736816907Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:02:57.736821507Z Python 3.10.11
+2023-07-30T12:02:57.736825907Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:03:01.541943993Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:03:01.672300012Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:03:02.313453805Z Starting periodic command scheduler: cron.
+2023-07-30T12:03:02.313489607Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:03:02.376754408Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:03:02.376793810Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:03:02.376801611Z Build Operation ID: 8bb21f0a-d8aa-4214-bb19-6a4dafdb91fa
+2023-07-30T12:03:03.078629256Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:03:03.137489306Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:03:03.298957296Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:03:03.298986997Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:03:03.299015199Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:08:00.338655463Z    _____                               
+2023-07-30T12:08:00.338695766Z   /  _  \ __________ _________   ____  
+2023-07-30T12:08:00.338703866Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:08:00.338822075Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:08:00.338832976Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:08:00.338839577Z         \/      \/                  \/ 
+2023-07-30T12:08:00.338845477Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:08:00.338851078Z 
+2023-07-30T12:08:00.338856578Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:08:00.338910982Z Python 3.10.11
+2023-07-30T12:08:00.338918183Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:08:02.398903750Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:08:02.447519011Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:08:02.752341093Z Starting periodic command scheduler: cron.
+2023-07-30T12:08:02.761392393Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:08:02.817885063Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:08:02.819374179Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:08:02.823001559Z Build Operation ID: bc1a39cd-4ff7-463b-8353-f8d11b8d7bbb
+2023-07-30T12:08:03.138553171Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:08:03.173826800Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:08:03.293741576Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:08:03.294777057Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:08:03.295589819Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:12:59.606390947Z    _____                               
+2023-07-30T12:12:59.606437650Z   /  _  \ __________ _________   ____  
+2023-07-30T12:12:59.606443850Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:12:59.606448350Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:12:59.606452751Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:12:59.606457451Z         \/      \/                  \/ 
+2023-07-30T12:12:59.606461851Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:12:59.606465952Z 
+2023-07-30T12:12:59.606469952Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:12:59.606474052Z Python 3.10.11
+2023-07-30T12:12:59.606478052Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:13:03.029814856Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:13:03.148605433Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:13:03.531175583Z Starting periodic command scheduler: cron.
+2023-07-30T12:13:03.538634058Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:13:03.634535584Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:13:03.638416779Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:13:03.764089303Z Build Operation ID: 3206ff5a-746f-4757-a039-c146e4863936
+2023-07-30T12:13:05.114525727Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:13:05.200701119Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:13:05.286135062Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:13:05.286852709Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:13:05.287291537Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:17:55.885481654Z    _____                               
+2023-07-30T12:17:55.885524156Z   /  _  \ __________ _________   ____  
+2023-07-30T12:17:55.885529657Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:17:55.885534057Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:17:55.885538357Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:17:55.885542857Z         \/      \/                  \/ 
+2023-07-30T12:17:55.885547158Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:17:55.885551258Z 
+2023-07-30T12:17:55.885555358Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:17:55.885559358Z Python 3.10.11
+2023-07-30T12:17:55.885563559Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:18:00.492027040Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:18:00.631498393Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:18:00.993289818Z Starting periodic command scheduler: cron.
+2023-07-30T12:18:01.002801310Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:18:01.153247315Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:18:01.154903883Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:18:01.156351343Z Build Operation ID: 433048a2-02e0-4d62-bb48-2a00dc66eb99
+2023-07-30T12:18:01.455620185Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:18:01.616450518Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:18:01.715478602Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:18:01.715510603Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:18:01.715541604Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:22:55.598497526Z    _____                               
+2023-07-30T12:22:55.598555629Z   /  _  \ __________ _________   ____  
+2023-07-30T12:22:55.598567430Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:22:55.598581330Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:22:55.598590131Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:22:55.598598931Z         \/      \/                  \/ 
+2023-07-30T12:22:55.598607232Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:22:55.598615432Z 
+2023-07-30T12:22:55.598623233Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:22:55.598631433Z Python 3.10.11
+2023-07-30T12:22:55.598639534Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:22:59.070540918Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:22:59.100663974Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:22:59.616684937Z Starting periodic command scheduler: cron.
+2023-07-30T12:22:59.635042546Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:22:59.835440961Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:22:59.835476363Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:22:59.835482963Z Build Operation ID: 059e2117-8d4b-4bfc-b9bc-5f7a48159c41
+2023-07-30T12:23:00.758390885Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:23:00.760723614Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:23:00.902591410Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:23:00.909345382Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:23:00.912252941Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:27:56.636429859Z    _____                               
+2023-07-30T12:27:56.636492063Z   /  _  \ __________ _________   ____  
+2023-07-30T12:27:56.636498464Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:27:56.636503364Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:27:56.636508664Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:27:56.636513565Z         \/      \/                  \/ 
+2023-07-30T12:27:56.636518165Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:27:56.636522665Z 
+2023-07-30T12:27:56.636526866Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:27:56.636531166Z Python 3.10.11
+2023-07-30T12:27:56.636535466Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:27:58.370527133Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:27:58.509756891Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:27:58.936097784Z Starting periodic command scheduler: cron.
+2023-07-30T12:27:58.944695699Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:27:59.194143340Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:27:59.195068406Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:27:59.195088507Z Build Operation ID: 2abc42cb-df9c-41a8-9c80-5efb12c9d080
+2023-07-30T12:27:59.436068342Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:27:59.525259249Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:27:59.624361222Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:27:59.632290280Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:27:59.642670811Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:32:59.919641389Z    _____                               
+2023-07-30T12:32:59.921060974Z   /  _  \ __________ _________   ____  
+2023-07-30T12:32:59.921072475Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:32:59.921078675Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:32:59.921084175Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:32:59.921089676Z         \/      \/                  \/ 
+2023-07-30T12:32:59.921094876Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:32:59.921100076Z 
+2023-07-30T12:32:59.921104977Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:32:59.921109977Z Python 3.10.11
+2023-07-30T12:32:59.921114977Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:33:04.099719235Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:33:04.260479137Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:33:04.609435929Z Starting periodic command scheduler: cron.
+2023-07-30T12:33:04.611070926Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:33:04.688643249Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:33:04.689093875Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:33:04.690510260Z Build Operation ID: 6c55ae37-bb36-41e0-97d2-f43b7ab45520
+2023-07-30T12:33:05.491185166Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:33:05.539913469Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:33:05.780158684Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:33:05.781267350Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:33:05.782133001Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:37:58.550950207Z    _____                               
+2023-07-30T12:37:58.550990410Z   /  _  \ __________ _________   ____  
+2023-07-30T12:37:58.550996810Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:37:58.551001910Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:37:58.551006511Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:37:58.551011411Z         \/      \/                  \/ 
+2023-07-30T12:37:58.551016111Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:37:58.551020511Z 
+2023-07-30T12:37:58.551024712Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:37:58.551029112Z Python 3.10.11
+2023-07-30T12:37:58.551033412Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:38:01.519177690Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:38:01.651255048Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:38:02.048066854Z Starting periodic command scheduler: cron.
+2023-07-30T12:38:02.056938255Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:38:02.245992930Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:38:02.247675025Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:38:02.247696927Z Build Operation ID: 964f31a2-9ffe-4f32-82d6-62827b329137
+2023-07-30T12:38:02.696876690Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:38:02.764623715Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:38:02.892152116Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:38:02.892184518Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:38:02.892214519Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:42:58.964584276Z    _____                               
+2023-07-30T12:42:58.964620277Z   /  _  \ __________ _________   ____  
+2023-07-30T12:42:58.964626177Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:42:58.964631077Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:42:58.964636277Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:42:58.964640877Z         \/      \/                  \/ 
+2023-07-30T12:42:58.964645078Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:42:58.964649478Z 
+2023-07-30T12:42:58.964653478Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:42:58.964657678Z Python 3.10.11
+2023-07-30T12:42:58.964661778Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:43:00.840637566Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:43:01.028741697Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:43:01.514179148Z Starting periodic command scheduler: cron.
+2023-07-30T12:43:01.521599697Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:43:01.651492917Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:43:01.652674405Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:43:01.653638076Z Build Operation ID: f19913e7-ee93-422c-bfde-58df864bb863
+2023-07-30T12:43:02.513071224Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:43:02.578552174Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:43:02.708906228Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:43:02.708952231Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:43:02.709002235Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:47:58.460119001Z    _____                               
+2023-07-30T12:47:58.460178305Z   /  _  \ __________ _________   ____  
+2023-07-30T12:47:58.460184406Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:47:58.460189006Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:47:58.460193306Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:47:58.460197706Z         \/      \/                  \/ 
+2023-07-30T12:47:58.460202007Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:47:58.460206207Z 
+2023-07-30T12:47:58.460210307Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:47:58.460215108Z Python 3.10.11
+2023-07-30T12:47:58.460224808Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:47:59.860777869Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:47:59.971361967Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:48:00.261890077Z Starting periodic command scheduler: cron.
+2023-07-30T12:48:00.327248831Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:48:00.402596135Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:48:00.404206940Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:48:00.404226041Z Build Operation ID: 1d42f177-64ca-4f12-bc21-0440f4b8d0bc
+2023-07-30T12:48:00.577805439Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:48:00.592068868Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:48:00.644764197Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:48:00.661705400Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T12:48:00.661761204Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T12:53:00.415578968Z    _____                               
+2023-07-30T12:53:00.415641871Z   /  _  \ __________ _________   ____  
+2023-07-30T12:53:00.415652872Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:53:00.415661372Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:53:00.415669973Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:53:00.415678373Z         \/      \/                  \/ 
+2023-07-30T12:53:00.415686774Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:53:00.415694674Z 
+2023-07-30T12:53:00.415702375Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:53:00.415710175Z Python 3.10.11
+2023-07-30T12:53:00.415717875Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:53:02.669604948Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:53:02.948541084Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:53:03.349373250Z Starting periodic command scheduler: cron.
+2023-07-30T12:53:03.351102747Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:53:03.490544962Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:53:03.498174089Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:53:03.498198491Z Build Operation ID: 85fe3b99-57f2-4a32-a30c-300dc80bd2cf
+2023-07-30T12:53:03.812396900Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:53:03.870364849Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:53:03.983818408Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:53:03.990816700Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:53:04.000818960Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T12:58:01.543825229Z    _____                               
+2023-07-30T12:58:01.543858431Z   /  _  \ __________ _________   ____  
+2023-07-30T12:58:01.543863931Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T12:58:01.543868332Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T12:58:01.543872532Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T12:58:01.543876932Z         \/      \/                  \/ 
+2023-07-30T12:58:01.543881132Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T12:58:01.543885133Z 
+2023-07-30T12:58:01.543889033Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T12:58:01.543899533Z Python 3.10.11
+2023-07-30T12:58:01.543903634Z Note: Any data outside '/home' is not persisted
+2023-07-30T12:58:03.614997432Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T12:58:03.851549060Z Site's appCommandLine: start_appservice.sh
+2023-07-30T12:58:04.260576203Z Starting periodic command scheduler: cron.
+2023-07-30T12:58:04.267687998Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T12:58:04.387480428Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T12:58:04.390504138Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T12:58:04.398074465Z Build Operation ID: a3891b6c-caf0-439b-807f-36906855a17f
+2023-07-30T12:58:05.098014637Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T12:58:05.176277579Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T12:58:05.371845977Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T12:58:05.371885080Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T12:58:05.371913482Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:03:00.166213211Z    _____                               
+2023-07-30T13:03:00.166255213Z   /  _  \ __________ _________   ____  
+2023-07-30T13:03:00.166261714Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:03:00.166266614Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:03:00.166271214Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:03:00.166276015Z         \/      \/                  \/ 
+2023-07-30T13:03:00.166280515Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:03:00.166285015Z 
+2023-07-30T13:03:00.166289316Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:03:00.166293716Z Python 3.10.11
+2023-07-30T13:03:00.166298116Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:03:02.421593554Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:03:02.491202627Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:03:02.760655520Z Starting periodic command scheduler: cron.
+2023-07-30T13:03:02.777346648Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:03:02.831030435Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:03:02.832659126Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:03:02.832676327Z Build Operation ID: 362695fa-d8bc-42b1-8181-a68950dbe3e1
+2023-07-30T13:03:02.971369344Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:03:03.025836374Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:03:03.113596157Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:03:03.114798324Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:03:03.115911986Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:07:59.435935437Z    _____                               
+2023-07-30T13:07:59.435970939Z   /  _  \ __________ _________   ____  
+2023-07-30T13:07:59.435977639Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:07:59.435993840Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:07:59.435998340Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:07:59.436002841Z         \/      \/                  \/ 
+2023-07-30T13:07:59.436007141Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:07:59.436011241Z 
+2023-07-30T13:07:59.436015641Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:07:59.436019742Z Python 3.10.11
+2023-07-30T13:07:59.436023742Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:08:00.940514004Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:08:01.031043705Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:08:01.549482135Z Starting periodic command scheduler: cron.
+2023-07-30T13:08:01.557431210Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:08:01.696347697Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:08:01.697931292Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:08:01.699397579Z Build Operation ID: bdea7a25-f23b-4919-a45f-2a90e4898081
+2023-07-30T13:08:02.310015908Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:08:02.360392814Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:08:02.534767316Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:08:02.534791018Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:08:02.534826220Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:12:59.758578993Z    _____                               
+2023-07-30T13:12:59.758615995Z   /  _  \ __________ _________   ____  
+2023-07-30T13:12:59.758622496Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:12:59.758627896Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:12:59.758632896Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:12:59.758638097Z         \/      \/                  \/ 
+2023-07-30T13:12:59.758642797Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:12:59.758647497Z 
+2023-07-30T13:12:59.758651997Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:12:59.758656498Z Python 3.10.11
+2023-07-30T13:12:59.758660998Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:13:02.340131661Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:13:02.480978879Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:13:02.829715684Z Starting periodic command scheduler: cron.
+2023-07-30T13:13:02.831802802Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:13:03.038661330Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:13:03.038710833Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:13:03.038718534Z Build Operation ID: 075d1f68-c6ed-4f99-81a5-bec426b89408
+2023-07-30T13:13:03.554088106Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:13:03.603322773Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:13:03.681738682Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:13:03.681762583Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:13:03.681788885Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:17:58.878848408Z    _____                               
+2023-07-30T13:17:58.878881210Z   /  _  \ __________ _________   ____  
+2023-07-30T13:17:58.878886911Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:17:58.878891811Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:17:58.878896511Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:17:58.878901212Z         \/      \/                  \/ 
+2023-07-30T13:17:58.878905812Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:17:58.878910212Z 
+2023-07-30T13:17:58.878914613Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:17:58.878919013Z Python 3.10.11
+2023-07-30T13:17:58.878923413Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:18:01.838613256Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:18:01.965642488Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:18:02.358949383Z Starting periodic command scheduler: cron.
+2023-07-30T13:18:02.370005695Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:18:02.525488018Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:18:02.527358855Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:18:02.535868981Z Build Operation ID: cf6e1332-1280-42ee-9bf6-9436557ba54a
+2023-07-30T13:18:03.341445463Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:18:03.341487266Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:18:03.517416891Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:18:03.519126417Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:18:03.521034357Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:23:01.962738702Z    _____                               
+2023-07-30T13:23:01.962792705Z   /  _  \ __________ _________   ____  
+2023-07-30T13:23:01.962800206Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:23:01.962805606Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:23:01.962810606Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:23:01.962815707Z         \/      \/                  \/ 
+2023-07-30T13:23:01.962820407Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:23:01.962825007Z 
+2023-07-30T13:23:01.962829408Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:23:01.962833908Z Python 3.10.11
+2023-07-30T13:23:01.962838308Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:23:05.092717354Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:23:05.193917777Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:23:05.494756877Z Starting periodic command scheduler: cron.
+2023-07-30T13:23:05.505208120Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:23:05.649277780Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:23:05.649315382Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:23:05.649322982Z Build Operation ID: 0933ba21-a703-41fd-b184-0906022c0a79
+2023-07-30T13:23:05.926552331Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:23:06.077107289Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:23:06.525453261Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T13:23:06.525502164Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:23:06.525509564Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T13:28:01.566183254Z    _____                               
+2023-07-30T13:28:01.566221756Z   /  _  \ __________ _________   ____  
+2023-07-30T13:28:01.566227557Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:28:01.566232457Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:28:01.566237057Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:28:01.566241758Z         \/      \/                  \/ 
+2023-07-30T13:28:01.566246258Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:28:01.566253658Z 
+2023-07-30T13:28:01.566257958Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:28:01.566262359Z Python 3.10.11
+2023-07-30T13:28:01.566266759Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:28:03.059777338Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:28:03.200130110Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:28:03.537565335Z Starting periodic command scheduler: cron.
+2023-07-30T13:28:03.537616037Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:28:03.664443250Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:28:03.664479952Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:28:03.664487753Z Build Operation ID: f16c2d2e-4227-45ad-96f2-844e4d88d2ab
+2023-07-30T13:28:03.948536383Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:28:03.970279703Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:28:04.028977695Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:28:04.035319150Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:28:04.037313462Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:35:00.815106334Z    _____                               
+2023-07-30T13:35:00.818415977Z   /  _  \ __________ _________   ____  
+2023-07-30T13:35:00.818429778Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:35:00.818435679Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:35:00.818440879Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:35:00.818446379Z         \/      \/                  \/ 
+2023-07-30T13:35:00.818451280Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:35:00.818456280Z 
+2023-07-30T13:35:00.818461080Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:35:00.818465881Z Python 3.10.11
+2023-07-30T13:35:00.818470581Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:35:07.590989277Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:35:07.749935804Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:35:08.416345830Z Starting periodic command scheduler: cron.
+2023-07-30T13:35:08.491772137Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:35:08.716104411Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:35:08.717542520Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:35:08.717561422Z Build Operation ID: f845144a-a2e7-4baa-b3bd-fee3e9841e7d
+2023-07-30T13:35:09.907727573Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:35:10.011539828Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:35:10.139361098Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:35:10.141082829Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:35:10.149820190Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:40:04.852210659Z    _____                               
+2023-07-30T13:40:04.855924989Z   /  _  \ __________ _________   ____  
+2023-07-30T13:40:04.855934690Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:40:04.855940690Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:40:04.855946090Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:40:04.855951591Z         \/      \/                  \/ 
+2023-07-30T13:40:04.855956691Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:40:04.855961591Z 
+2023-07-30T13:40:04.855966191Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:40:04.855970992Z Python 3.10.11
+2023-07-30T13:40:04.855975892Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:40:09.564316148Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:40:09.673616709Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:40:10.105846844Z Starting periodic command scheduler: cron.
+2023-07-30T13:40:10.113528519Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:40:10.333963453Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:40:10.334303274Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:40:10.334485186Z Build Operation ID: 94862047-0da8-407f-b94e-5bb85a56a82f
+2023-07-30T13:40:11.763169823Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:40:11.854461674Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:40:11.926383726Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:40:11.933679478Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:40:11.934382521Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:45:01.786429741Z    _____                               
+2023-07-30T13:45:01.786478244Z   /  _  \ __________ _________   ____  
+2023-07-30T13:45:01.786483944Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:45:01.786488444Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:45:01.786492945Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:45:01.786497445Z         \/      \/                  \/ 
+2023-07-30T13:45:01.786501745Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:45:01.786505945Z 
+2023-07-30T13:45:01.786509846Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:45:01.786513846Z Python 3.10.11
+2023-07-30T13:45:01.786517946Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:45:05.081756073Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:45:05.191188434Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:45:05.578483986Z Starting periodic command scheduler: cron.
+2023-07-30T13:45:05.580362690Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:45:05.627861921Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:45:05.628315046Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:45:05.628330147Z Build Operation ID: c0aee852-58d6-48ce-8ae1-6550a7d2de3b
+2023-07-30T13:45:06.009313649Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:45:06.082024476Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:45:06.476234111Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+2023-07-30T13:45:06.476312315Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:45:06.476322616Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+
+2023-07-30T13:50:21.528000665Z    _____                               
+2023-07-30T13:50:21.535655164Z   /  _  \ __________ _________   ____  
+2023-07-30T13:50:21.535671065Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:50:21.535676665Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:50:21.535681366Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:50:21.535686266Z         \/      \/                  \/ 
+2023-07-30T13:50:21.535690867Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:50:21.535695267Z 
+2023-07-30T13:50:21.535699667Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:50:21.535704068Z Python 3.10.11
+2023-07-30T13:50:21.535708368Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:50:23.323985092Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:50:23.397668453Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:50:23.754696168Z Starting periodic command scheduler: cron.
+2023-07-30T13:50:23.755685246Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:50:23.793164676Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:50:23.793991141Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:50:23.794104349Z Build Operation ID: 2b62e53b-006d-43aa-8c07-dc18a5f5d521
+2023-07-30T13:50:24.082716816Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:50:24.143100237Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:50:24.443885354Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:50:24.443922857Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:50:24.451833776Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T13:56:23.327991635Z    _____                               
+2023-07-30T13:56:23.328025138Z   /  _  \ __________ _________   ____  
+2023-07-30T13:56:23.328030838Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T13:56:23.328035438Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T13:56:23.328039638Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T13:56:23.328044139Z         \/      \/                  \/ 
+2023-07-30T13:56:23.328048339Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T13:56:23.328052439Z 
+2023-07-30T13:56:23.328056340Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T13:56:23.328060540Z Python 3.10.11
+2023-07-30T13:56:23.328064640Z Note: Any data outside '/home' is not persisted
+2023-07-30T13:56:26.416956893Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T13:56:26.596914288Z Site's appCommandLine: start_appservice.sh
+2023-07-30T13:56:27.023917150Z Starting periodic command scheduler: cron.
+2023-07-30T13:56:27.031702935Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T13:56:27.151471285Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T13:56:27.151814206Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T13:56:27.153654021Z Build Operation ID: 3d0d0417-ba1b-4411-b33b-1e269714f94f
+2023-07-30T13:56:27.333751224Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T13:56:28.232084606Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T13:56:29.559552247Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T13:56:29.561202149Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T13:56:29.571654599Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T14:01:19.859657645Z    _____                               
+2023-07-30T14:01:19.859713549Z   /  _  \ __________ _________   ____  
+2023-07-30T14:01:19.859721049Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T14:01:19.859726349Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T14:01:19.859731150Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T14:01:19.859736350Z         \/      \/                  \/ 
+2023-07-30T14:01:19.859741150Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T14:01:19.859745650Z 
+2023-07-30T14:01:19.859750051Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T14:01:19.859754751Z Python 3.10.11
+2023-07-30T14:01:19.859759251Z Note: Any data outside '/home' is not persisted
+2023-07-30T14:01:22.269341885Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T14:01:22.431331061Z Site's appCommandLine: start_appservice.sh
+2023-07-30T14:01:22.896687333Z Starting periodic command scheduler: cron.
+2023-07-30T14:01:22.899069766Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T14:01:23.146572332Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T14:01:23.147147764Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T14:01:23.196287316Z Build Operation ID: b68fb319-c37a-41b0-ac41-8aac9676654f
+2023-07-30T14:01:24.081640210Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T14:01:24.179013664Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T14:01:24.297926124Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T14:01:24.297956225Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T14:01:24.297996027Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T14:06:18.990434997Z    _____                               
+2023-07-30T14:06:18.990470099Z   /  _  \ __________ _________   ____  
+2023-07-30T14:06:18.990475700Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T14:06:18.990480300Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T14:06:18.990484500Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T14:06:18.990489400Z         \/      \/                  \/ 
+2023-07-30T14:06:18.990493501Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T14:06:18.990497601Z 
+2023-07-30T14:06:18.990501601Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T14:06:18.990505701Z Python 3.10.11
+2023-07-30T14:06:18.990509701Z Note: Any data outside '/home' is not persisted
+2023-07-30T14:06:20.312076902Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T14:06:20.589497561Z Site's appCommandLine: start_appservice.sh
+2023-07-30T14:06:20.924140750Z Starting periodic command scheduler: cron.
+2023-07-30T14:06:20.924172852Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T14:06:21.244080508Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T14:06:21.244162812Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T14:06:21.244171913Z Build Operation ID: f273283f-24da-48ff-b084-0d06345722b1
+2023-07-30T14:06:21.473642664Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T14:06:21.522171603Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T14:06:21.611450142Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T14:06:21.611897567Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T14:06:21.621791425Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T14:11:21.242814562Z    _____                               
+2023-07-30T14:11:21.242855865Z   /  _  \ __________ _________   ____  
+2023-07-30T14:11:21.242862365Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T14:11:21.242867665Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T14:11:21.242872766Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T14:11:21.242878166Z         \/      \/                  \/ 
+2023-07-30T14:11:21.242882866Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T14:11:21.242887467Z 
+2023-07-30T14:11:21.242892067Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T14:11:21.242896567Z Python 3.10.11
+2023-07-30T14:11:21.242901067Z Note: Any data outside '/home' is not persisted
+2023-07-30T14:11:24.210558665Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T14:11:24.313343926Z Site's appCommandLine: start_appservice.sh
+2023-07-30T14:11:24.808402309Z Starting periodic command scheduler: cron.
+2023-07-30T14:11:24.810356341Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T14:11:24.935165913Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T14:11:24.936520805Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T14:11:24.936540706Z Build Operation ID: 0500adba-e50d-4736-9971-fa0f4ff6178d
+2023-07-30T14:11:25.921225840Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T14:11:25.978378519Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T14:11:26.144656104Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T14:11:26.146132504Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T14:11:26.147765315Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T14:16:21.531946350Z    _____                               
+2023-07-30T14:16:21.553895053Z   /  _  \ __________ _________   ____  
+2023-07-30T14:16:21.553913254Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T14:16:21.553918255Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T14:16:21.553923155Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T14:16:21.553927855Z         \/      \/                  \/ 
+2023-07-30T14:16:21.553932055Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T14:16:21.553936556Z 
+2023-07-30T14:16:21.553940556Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T14:16:21.553944556Z Python 3.10.11
+2023-07-30T14:16:21.553948556Z Note: Any data outside '/home' is not persisted
+2023-07-30T14:16:24.669695487Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T14:16:24.808766345Z Site's appCommandLine: start_appservice.sh
+2023-07-30T14:16:25.187024804Z Starting periodic command scheduler: cron.
+2023-07-30T14:16:25.192562133Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T14:16:25.334930286Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T14:16:25.336641487Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T14:16:25.343027267Z Build Operation ID: f68b5f23-5d14-4e6c-a8d9-d588c182b0f9
+2023-07-30T14:16:25.542513311Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T14:16:25.589096477Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T14:16:25.713411758Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T14:16:25.713442760Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T14:16:25.713484562Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T14:21:24.116007426Z    _____                               
+2023-07-30T14:21:24.116042528Z   /  _  \ __________ _________   ____  
+2023-07-30T14:21:24.116048528Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T14:21:24.116053428Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T14:21:24.116057929Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T14:21:24.116062829Z         \/      \/                  \/ 
+2023-07-30T14:21:24.116067229Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T14:21:24.116071629Z 
+2023-07-30T14:21:24.116075830Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T14:21:24.116080730Z Python 3.10.11
+2023-07-30T14:21:24.116085130Z Note: Any data outside '/home' is not persisted
+2023-07-30T14:21:26.370946571Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T14:21:26.470855625Z Site's appCommandLine: start_appservice.sh
+2023-07-30T14:21:26.871241381Z Starting periodic command scheduler: cron.
+2023-07-30T14:21:26.878898106Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T14:21:26.992353513Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T14:21:26.998415950Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T14:21:26.998444751Z Build Operation ID: 437598c5-de74-4de5-8176-e85b02c8e7ef
+2023-07-30T14:21:27.392805672Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T14:21:27.483026487Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T14:21:27.593027701Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T14:21:27.600362309Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T14:21:27.769100088Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T14:26:28.747469082Z    _____                               
+2023-07-30T14:26:28.747607592Z   /  _  \ __________ _________   ____  
+2023-07-30T14:26:28.747616493Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T14:26:28.747621993Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T14:26:28.747626894Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T14:26:28.747631994Z         \/      \/                  \/ 
+2023-07-30T14:26:28.747636695Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T14:26:28.747641395Z 
+2023-07-30T14:26:28.747645795Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T14:26:28.747650296Z Python 3.10.11
+2023-07-30T14:26:28.747654796Z Note: Any data outside '/home' is not persisted
+2023-07-30T14:26:30.666833563Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T14:26:30.785295763Z Site's appCommandLine: start_appservice.sh
+2023-07-30T14:26:31.166845706Z Starting periodic command scheduler: cron.
+2023-07-30T14:26:31.173720317Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T14:26:31.337799605Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T14:26:31.344413196Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T14:26:31.344449599Z Build Operation ID: fb639619-fe4c-4b69-86f9-3ee069c793f1
+2023-07-30T14:26:31.605627000Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T14:26:31.658991965Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T14:26:31.746643076Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T14:26:31.754808982Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T14:26:31.755203412Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T14:31:25.951990638Z    _____                               
+2023-07-30T14:31:25.952019940Z   /  _  \ __________ _________   ____  
+2023-07-30T14:31:25.952025640Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T14:31:25.952030140Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T14:31:25.952034341Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T14:31:25.952038941Z         \/      \/                  \/ 
+2023-07-30T14:31:25.952043241Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T14:31:25.952047241Z 
+2023-07-30T14:31:25.952058342Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T14:31:25.952062342Z Python 3.10.11
+2023-07-30T14:31:25.952066442Z Note: Any data outside '/home' is not persisted
+2023-07-30T14:31:29.412300902Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T14:31:29.493768336Z Site's appCommandLine: start_appservice.sh
+2023-07-30T14:31:29.882154857Z Starting periodic command scheduler: cron.
+2023-07-30T14:31:29.899962736Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T14:31:30.060975487Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T14:31:30.063589945Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T14:31:30.063616247Z Build Operation ID: be8eaf20-dd9d-45a9-9949-4a516a8f1b4e
+2023-07-30T14:31:30.969095086Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T14:31:31.009628986Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T14:31:31.212120077Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T14:31:31.213494662Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T14:31:31.214727538Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
+2023-07-30T14:36:22.115711627Z    _____                               
+2023-07-30T14:36:22.115742729Z   /  _  \ __________ _________   ____  
+2023-07-30T14:36:22.115748629Z  /  /_\  \\___   /  |  \_  __ \_/ __ \ 
+2023-07-30T14:36:22.115753429Z /    |    \/    /|  |  /|  | \/\  ___/ 
+2023-07-30T14:36:22.115758630Z \____|__  /_____ \____/ |__|    \___  >
+2023-07-30T14:36:22.115768130Z         \/      \/                  \/ 
+2023-07-30T14:36:22.115772631Z A P P   S E R V I C E   O N   L I N U X
+2023-07-30T14:36:22.115777231Z 
+2023-07-30T14:36:22.115781431Z Documentation: http://aka.ms/webapp-linux
+2023-07-30T14:36:22.115785831Z Python 3.10.11
+2023-07-30T14:36:22.115790132Z Note: Any data outside '/home' is not persisted
+2023-07-30T14:36:24.695880756Z Starting OpenBSD Secure Shell server: sshd.
+2023-07-30T14:36:24.853538910Z Site's appCommandLine: start_appservice.sh
+2023-07-30T14:36:25.218381695Z Starting periodic command scheduler: cron.
+2023-07-30T14:36:25.219848178Z Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite -userStartupCommand 'start_appservice.sh'
+2023-07-30T14:36:25.359278006Z Could not find build manifest file at '/home/site/wwwroot/oryx-manifest.toml'
+2023-07-30T14:36:25.365348847Z Could not find operation ID in manifest. Generating an operation id...
+2023-07-30T14:36:25.365371748Z Build Operation ID: dc462866-754c-4af2-823b-ba124b095a32
+2023-07-30T14:36:25.587359611Z Oryx Version: 0.2.20230512.3, Commit: a81ce1fa16b6e03d37f79d3ba5e99cf09b28e4ef, ReleaseTagName: 20230512.3
+2023-07-30T14:36:25.667203594Z Writing output script to '/opt/startup/startup.sh'
+2023-07-30T14:36:25.765087290Z WARNING: Could not find virtual environment directory /home/site/wwwroot/antenv.
+2023-07-30T14:36:25.766629876Z WARNING: Could not find package directory /home/site/wwwroot/__oryx_packages__.
+2023-07-30T14:36:25.773686473Z /opt/startup/startup.sh: 23: start_appservice.sh: not found
+
